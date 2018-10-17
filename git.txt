@@ -1,0 +1,8 @@
+Crear un proyecto con los comandos de windows.
+ir al proyecto con cd
+ponemos lo que nos plazca  y añadimos al fichero
+git init (crear proyecto)
+git add (nombre del fichero)
+git add . (pasar todos los ficheros)
+git add -A (pasar todos los ficheros)
+git comit -m "nombre del proyecto v1" (se guarda un estado nuevo)
